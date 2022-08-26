@@ -8,4 +8,4 @@ gunicorn
 fastapi
 pydantic
 uvicorn
-python-multiaprt
+python-multipart
