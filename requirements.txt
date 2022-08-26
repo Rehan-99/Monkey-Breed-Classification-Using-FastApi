@@ -1,0 +1,11 @@
+flask
+numpy
+tensorflow
+pillow
+keras
+pandas
+gunicorn
+fastapi
+pydantic
+uvicorn
+python-multiaprt
